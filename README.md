@@ -8,4 +8,4 @@ Here you can find more info about the courses I did and feel free to ask me any 
 - 😄 Hiking and camping is one of my passions.
 - 😄 I am very open to making new friends :)
 
-
+*
