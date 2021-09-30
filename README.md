@@ -2,7 +2,7 @@
 
 I am Francis Lopes, Brazilian:brazil:/Italian:it: and currently living in Spain:es:. I have a background in Mechanical Engineering and at this moment I am studying to be a Software Engineer. Little by little I am discovering this new world and to be honest I am enjoying a lot this new adventure 💻.
 
-[Here](https://github.com/francislopes/education/blob/main/README.md) you can find more info about the courses I did, you can also access my [linkedIn](https://www.linkedin.com/in/francis-lopes/) profile in and if you have any question about myself please feel free to contact me. 
+[Here](https://github.com/francislopes/education/blob/main/README.md) you can find more info about the courses I did and you can access my [linkedIn](https://www.linkedin.com/in/francis-lopes/) profile as well. If you have any question about myself please feel free to contact me. 
 
 - ✈️ I like to travel and spend time with my family.
 - 🏕️ Hiking and camping is one of my passions.
