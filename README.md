@@ -1,4 +1,4 @@
-# Hello World! 👋
+## Hello World! 👋
 
 I am Francis Lopes, Brazilian/Italian and living in Spain. I have a background in Mechanical Engineering and at this moment I am studying to be a Software Engineer. Little by little I am discovering this new world and to be honest I am enjoying this challenge a lot.
 
