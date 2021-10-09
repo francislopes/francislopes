@@ -5,7 +5,7 @@ I am Francis Lopes, Brazilian:brazil:/Italian:it: and currently living in Spain:
 [Here](https://github.com/francislopes/education/blob/main/README.md) you can find more info about the courses I did and the [languages]() that I speak. You can also access my [linkedIn](https://www.linkedin.com/in/francis-lopes/) profile to get more details about myself and if you have any question please do not hesitate to contact me. 
 
 - ✈️ I like to travel and spend time with my family.
-- 🏕️ Hiking and camping is one of my passions.
+- 🏕️ Hiking & camping is one of my passions.
 - 🙂 I am very open to making new friends.
 
 ***
